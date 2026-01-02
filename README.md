@@ -18,4 +18,4 @@ RADIUS.png: Visual proof of the RADIUS server configuration.
 RADIUS.yml: The Ansible playbook used for configuration management. 
 hosts: The Ansible inventory file containing connection details for the router at 192.168.43.175
 Technical Walkthrough (Audio)
-[Click here to listen to the explanation of my configuration](./Technical_Walkthrough_Audio_out.mp3)
+[Click here to listen to the explanation of my configuration](/presentation.mp3)
