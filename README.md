@@ -1,6 +1,7 @@
 MikroTik CHR Configuration & Automation Task
 This repository contains the solution for the MikroTik Cloud Hosted Router (CHR) technical assessment. It demonstrates network security implementation, Hotspot gateway configuration, and automation using Ansible.
  Project Tasks Completed
+ 
 1. Network Security (Firewall)
 Objective: Block specific outbound traffic. 
 Rule: Configured a firewall filter rule to drop all TCP traffic to destination IP 1.1.1.1 on port 443.
